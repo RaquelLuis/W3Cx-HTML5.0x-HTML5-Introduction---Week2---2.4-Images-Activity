@@ -1,6 +1,6 @@
 # W3Cx-HTML5.0x-HTML5-Introduction---Week2---2.4-Images-Activity
 
-I created this page for the purpose of completing one task of the following course: "edx - W3Cx: HTML5.0x HTML5 Introduction".
+I created this page for the purpose of completing one activity from the following course: "edx - W3Cx: HTML5.0x HTML5 Introduction".
 
 WEEK 2 -Attributes, images and links > 2.4 Images > Activities and discussion
 
